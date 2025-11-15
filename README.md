@@ -16,10 +16,10 @@ This project explores how **AI and machine learning** can serve as an *intellige
 ---
 
 ## 🧩 Tech Stack
-- **Python**, **Pandas**, **Scikit-learn**, **TensorFlow/PyTorch**  
+- **Python**, **Pandas**, **Scikit-learn**, **TensorFlow/PyTorch**, **HuggingFace**, **LangChain**  
 - **Elasticsearch / Kafka (optional)** for stream data  
-- **Flask / FastAPI** for visualization and API integration  
-- **Jupyter / Streamlit** for interactive analysis  
+- **FastAPI** for visualization and API integration  
+- **Jupyter** for interactive analysis  
 
 ---
 
